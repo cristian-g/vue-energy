@@ -1,27 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "d7e748d00e9fb089fe43",
+    "revision": "e0b0136ce7862001e5b6",
     "url": "/vue-energy/css/app.04d5b109.css"
   },
   {
-    "revision": "d7e748d00e9fb089fe43",
-    "url": "/vue-energy/js/app.eb9297c6.js"
+    "revision": "e0b0136ce7862001e5b6",
+    "url": "/vue-energy/js/app.e7bd6021.js"
   },
   {
     "revision": "58369b90c8ee61455367",
     "url": "/vue-energy/js/chunk-vendors.abb63db7.js"
   },
   {
-    "revision": "a536bb11e0c410f66df8",
-    "url": "/vue-energy/js/demo.e8177d85.js"
+    "revision": "8d30ecfce7256e2a6b36",
+    "url": "/vue-energy/js/demo.b70ad0d3.js"
   },
   {
     "revision": "426439788ec5ba772cdf94057f6f4659",
     "url": "/vue-energy/fonts/nucleo-icons.42643978.woff2"
-  },
-  {
-    "revision": "c1733565b32b585676302d4233c39da8",
-    "url": "/vue-energy/fonts/nucleo-icons.c1733565.eot"
   },
   {
     "revision": "2569aaea6eaaf8cd210db7f2fa016743",
@@ -32,11 +28,15 @@ self.__precacheManifest = [
     "url": "/vue-energy/fonts/nucleo-icons.f82ec6ba.ttf"
   },
   {
+    "revision": "c1733565b32b585676302d4233c39da8",
+    "url": "/vue-energy/fonts/nucleo-icons.c1733565.eot"
+  },
+  {
     "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
     "url": "/vue-energy/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "6f6d3cb056a8e987a821b7e00221208a",
+    "revision": "9de20c195c581a3a184b3d1261197dc2",
     "url": "/vue-energy/index.html"
   },
   {
@@ -44,23 +44,23 @@ self.__precacheManifest = [
     "url": "/vue-energy/img/brand/favicon.png"
   },
   {
-    "revision": "78570fcb515a5545740db21422a89212",
-    "url": "/vue-energy/img/theme/team-4-800x800.jpg"
+    "revision": "09c31792a721f9a6d5e59d90e83e483d",
+    "url": "/vue-energy/img/theme/profile-cover.jpg"
   },
   {
-    "revision": "fc00841b34fbc9223d90c7c525d580c6",
-    "url": "/vue-energy/prices.json"
+    "revision": "78570fcb515a5545740db21422a89212",
+    "url": "/vue-energy/img/theme/team-4-800x800.jpg"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/vue-energy/robots.txt"
   },
   {
-    "revision": "a9f4d915b0523b576f808fd287c276ac",
-    "url": "/vue-energy/img/theme/profile.png"
+    "revision": "fc00841b34fbc9223d90c7c525d580c6",
+    "url": "/vue-energy/prices.json"
   },
   {
-    "revision": "09c31792a721f9a6d5e59d90e83e483d",
-    "url": "/vue-energy/img/theme/profile-cover.jpg"
+    "revision": "a9f4d915b0523b576f808fd287c276ac",
+    "url": "/vue-energy/img/theme/profile.png"
   }
 ];
