@@ -38,6 +38,9 @@ I've used [vue-chartjs](https://vue-chartjs.org/), which is a wrapper for Chart.
 ## Different UX/UI ideas
 
 My proposal has been to show the different rates separately because showing them all together could cause confusion to the user:
+<p align="center">
+    <img align="center" alt="Variants" src="https://github.com/cristian-g/vue-energy/blob/master/demo.gif?raw=true">
+</p>
 
 ## Usage of well-known modern JS framework: Vue.js
 
