@@ -29,7 +29,7 @@ The colors that I've been using are trying to be similar to the ones used by the
 
 ## Semantic HTML5
 
-I've used two tags of <section> and <article> on both views, Welcome and Dashboard () in order to avoid some <div> and <span>, which tells nothing about its content. Further work regarding this project would include less quantity of <div> elements in favor of more semantic ones.
+I've used two tags of <section> and <article> on both views, Welcome and Dashboard (https://github.com/cristian-g/vue-energy/blob/master/src/views/Welcome.vue and https://github.com/cristian-g/vue-energy/blob/master/src/views/Dashboard.vue) in order to avoid some <div> and <span>, which tells nothing about its content. Further work regarding this project would include less quantity of <div> elements in favor of more semantic ones.
 
 ## Usage of graphics libraries like d3.js or chart.js
 
@@ -41,6 +41,7 @@ My proposal has been to show the different rates separately because showing them
 <p align="center">
     <img align="center" alt="Variants" src="https://github.com/cristian-g/vue-energy/blob/master/demo.gif?raw=true">
 </p>
+See its implementation on https://github.com/cristian-g/vue-energy/blob/master/src/views/Dashboard.vue.
 
 ## Usage of well-known modern JS framework: Vue.js
 
