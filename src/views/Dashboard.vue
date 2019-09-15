@@ -109,9 +109,7 @@
       },
       hoursArrayFromInterval(interval, value) {
         let hoursArray = new Array(24);
-        let interval0 = interval[0];
-        if (interval0 != 0) interval0 = interval[0]-1;
-        hoursArray.fill(value, interval0, interval[1]+1);
+        hoursArray.fill(value, interval[0], interval[1]+2);
         return hoursArray;
       },
       datasetObjectFromHoursArray(hoursArray, interval) {
