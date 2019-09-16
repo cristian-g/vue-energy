@@ -15,14 +15,14 @@ A small website using Vue.js that can read the prices.json file which will have 
 In case you need to build for production, use: ```vue-cli-service build```
 
 ## Use of existing codebase
-Instead of starting a new project from scratch, my idea has been to imitate the fact of arriving at a new workplace and receiving a codebase which has been coded by others. In that way, I can test how good I am when dealing with existing projects in order to achieve the requested results by adding and modifying coe. For that reason, I've used: Vue Argon Dashboard by Creative Tim.
+Instead of starting a new project from scratch, my idea has been to imitate the fact of arriving at a new workplace and receiving a codebase which has been coded by others. In that way, I can test how good I am when dealing with existing projects in order to achieve the requested results by adding and modifying code. For that reason, I've used: Vue Argon Dashboard by Creative Tim.
 You can see its product page here: https://www.creative-tim.com/product/argon-dashboard
 It is licensed under MIT: https://github.com/creativetimofficial/argon-dashboard/blob/master/LICENSE.md)
 
 ## Usage of SASS
 
-I've used SASS with the SCSS.
-In this little project the main advantage is to have variables for the colors of the website.
+I've used SASS with the SCSS syntax.
+In this little project the main advantage is to have variables for the colors of the website. Check the file of variables here: https://github.com/cristian-g/vue-energy/blob/master/src/assets/scss/custom/_variables.scss
 The colors that I've been using are trying to be similar to the ones used by the company:
 - Color #e6007d is used as primary color for buttons and text on buttons.
 - Background gradient uses #f06c17 and #ffba03
@@ -50,16 +50,16 @@ This is the featured stack I've been using:
 - Vue router (to simply route between the two pages, Welcome and Dashboard)
 - Chart.js
 - Bootstrap components for Vue.js
-- Axios (to get the json contents)
+- Axios (to get the JSON contents)
 
 ## Proper JS Object Orientation
 
-This would be a to topic to improve regarding this project. I'm using approach of splitting my code on different methods on each Vue component but I would like to use classes for the encapsulation of data models, like I did for a project using Angular and Typescript:
+This would be a to topic to improve regarding this project. I'm using the approach of splitting my code on different methods on each Vue component but I would like to use classes for the encapsulation of data models, like I did for a project using Angular and Typescript:
 https://github.com/cristian-g/outgogo-app/tree/master/src/models
 
 ## Next work
 
-These are two topic I would cover in case of improving this project:
+These are two topics I would cover in case of improving this project:
 - Code organization: instead of getting the JSON contents from the component code, I would use a different class, called a "service".
 - I would like to Typescript so that I could code using types.
 
