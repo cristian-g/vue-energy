@@ -16,7 +16,9 @@ In case you need to build for production, use: ```vue-cli-service build```
 
 ## Use of existing codebase
 Instead of starting a new project from scratch, my idea has been to imitate the fact of arriving at a new workplace and receiving a codebase which has been coded by others. In that way, I can test how good I am when dealing with existing projects in order to achieve the requested results by adding and modifying code. For that reason, I've used: Vue Argon Dashboard by Creative Tim.
+
 You can see its product page here: https://www.creative-tim.com/product/argon-dashboard
+
 It is licensed under MIT: https://github.com/creativetimofficial/argon-dashboard/blob/master/LICENSE.md)
 
 ## Usage of SASS
@@ -64,5 +66,6 @@ These are two topics I would cover in case of improving this project:
 - I would like to add Typescript so that I could code using types.
 
 An example of both points is also this project of mine: https://github.com/cristian-g/outgogo-app/tree/master/src/services
+
 You can check the "services" folder: https://github.com/cristian-g/outgogo-app/tree/master/src/services
 
