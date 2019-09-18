@@ -61,7 +61,7 @@ https://github.com/cristian-g/outgogo-app/tree/master/src/models
 
 These are two topics I would cover in case of improving this project:
 - Code organization: instead of getting the JSON contents from the component code, I would use a different class, called a "service".
-- I would like to Typescript so that I could code using types.
+- I would like to add Typescript so that I could code using types.
 
 An example of both points is also this project of mine: https://github.com/cristian-g/outgogo-app/tree/master/src/services
 You can check the "services" folder: https://github.com/cristian-g/outgogo-app/tree/master/src/services
